@@ -1,0 +1,21 @@
+body {
+    margin-top: auto;
+    margin-left: auto;
+    width: 70%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table {
+ border: 1px black;
+}
+
+figcaption {
+    font-style: italic;
+}
