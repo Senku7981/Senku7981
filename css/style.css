@@ -1,31 +1,22 @@
 body {
-    margin: auto;
-    max-width: 70%;
+    margin-top: auto;
+    margin-left: auto;
+    width: 70%;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5 {
+h1, h2, h3, h4, h5, h6 {
     font-family: sans-serif;
-    margin-top: 1.5em;
 }
 
 h1 {
     font-size: 32px;
 }
 
-table,
-th,
-td {
-    border: 1px solid black;
+table {
+ border: 1px black;
 }
 
-figcaption {
-    font-size: italic;
-}
-
-figure {
-    float: right;
+div figcaption  {
+    
+    font-style: italic;
 }
